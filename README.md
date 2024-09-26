@@ -13,3 +13,18 @@
 ![Img 4](Screenshot/5.png)
 - Gambar result 1
 ![Img 5](Screenshot/4.png)
+## 4. Format teks pada paragraf tersebut
+- Gambar result
+![Img 6](Screenshot/6.png)
+## 5. Kemudian menyisipkan gambar kepada halaman web dan menambahkan judul
+- Gambar 1
+![Img 7](Screenshot/7.png)
+- Gambar 2
+![Img 8](Screenshot/9.png)
+- Gambar Result 1&2
+![Img 9](Screenshot/10.png)
+## 6 Menambahkan Hyperlink pada dokumen tersebut
+- Gambar 1
+![Img 10](Screenshot/11.png)
+- Final Result
+![Img 11](Screenshot/12.png)
