@@ -4,4 +4,4 @@
 - Gambar1
 ![Img 1](screenshot/1.png)
 - Gambar2
-![Img 2](screenshot/2.png)
+![Img 2](Screenshot/2.png)
