@@ -8,3 +8,8 @@
 ## 2. Kemudian membuat beberapa paragraf sederhana
 - Gambar result
 ![Img 3](Screenshot/3.png)
+## 3. Kemudian atur atribut paragraf dan menambahkan sub judul
+- Gambar 1
+![Img 4](Screenshot/5.png)
+- Gambar result 1
+![Img 5](Screenshot/4.png)
