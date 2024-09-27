@@ -1,5 +1,7 @@
 # Lab1web
-
+## Nama : Pamuji raharjo
+## NIM  : 312310720
+## kelas :TI 23 A.4
 ## 1. Menambahkan file baru praktikum1 dan menambahkan tag dasar dokumen HTML.
 - Gambar1
 ![Img 1](Screenshot/1.png)
